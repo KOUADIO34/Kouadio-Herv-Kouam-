@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557094816783",
-    "",
-    "100087494437822",
-    ""
+    "61552690239959"
+    
+    
+    
    ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "◦•●◉✿𝐇𝐄𝐀𝐕𝐄𝐍 𝐒𝐊𝐄𝐓𝐂𝐇 𝐁𝐎𝐓✿◉●•◦ ",
-  "prefix": "+",
+  "nickNameBot": "𝗞𝗢𝗨𝗔𝗗𝗜𝗢 𝗚𝗥𝗘𝗣 ",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
