@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🎧𝐇𝐄𝐀𝐕𝐄𝐍🎧\n ℰ⍲‿⍲ℰ........? 𝐚𝐬𝐤 𝐲𝐨𝐮𝐫 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐦𝐲 𝐝𝐞𝐚𝐫.");
+        await message.reply("𝗸𝗼𝘂𝗮𝗱𝗶𝗼 𝗴𝗿𝗲𝗽\n\n je t'ecoute péri");
         return;
       }
 
@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `💃𝐇𝐄𝐀𝐕𝐄𝐍 𝐈𝐒 𝐌𝐘 𝐁𝐎𝐒𝐒 🍫
+    await message.reply({ body: `☃️𝗽𝗮𝘀 𝗺𝗼𝗻 𝗽𝗿𝗼𝗵𝗲𝗺𝗲⛄ 
 ______________________________  
 ${answer}
-ℰ⋆‿⋆ℰ 🍫𝐇𝐄𝐀𝐕𝐄𝐍🍫`,
+ℰ⋆‿⋆ℰ 🍫ℒᎾUℐЅℰ🍫`,
 });
 
    } catch (error) {
